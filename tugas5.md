@@ -2,16 +2,16 @@
 
 ## 1. Todo Create
 
-![Todo Create](screenshot/tugas5/todo-create.png.png)
+![todo-create](screenshot/tugas5/todo-create.png.png)
 
 # 2. Todo Created
 
-![Todo Created](screenshot/tugas5/todo-created.png.png)
+![todo-created](screenshot/tugas5/todo-created.png.png)
 
 ## 3. User Search
 
-![User Search](screenshot/tugas5/user-search.png.png)
+![user-search](screenshot/tugas5/user-search.png.png)
 
 ## 4. User Search Result
 
-![User Search Result](screenshot/tugas5/user-searched.png.png)
+![user-searched](screenshot/tugas5/user-searched.png.png)
